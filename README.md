@@ -59,13 +59,15 @@ User behavior trends
 
 This dataset helps us understand food preferences and craving trends.
 
-🧰 Technologies & Tools Used
-Category	Tools / Libraries
-Data Collection	Meteostat (Python), Yelp Dataset
-Programming	Python 3.x
-Data Processing	Pandas, NumPy, JSON
-Visualization	Matplotlib, Seaborn, Plotly
-Modeling	Scikit-learn, NLP (sentiment analysis)
-Storage	SQLite / CSV
-Dashboard (optional)	Tableau / Power BI
-Version Control	Git, GitHub
+Technologies & Tools Used
+
+| Category             | Tools / Libraries                      |
+| -------------------- | -------------------------------------- |
+| Data Collection      | Meteostat (Python), Yelp Dataset       |
+| Programming          | Python 3.x                             |
+| Data Processing      | Pandas, NumPy, JSON                    |
+| Visualization        | Matplotlib, Seaborn, Plotly            |
+| Modeling             | Scikit-learn, NLP (sentiment analysis) |
+| Storage              | SQLite / CSV                           |
+| Dashboard (optional) | Tableau / Power BI                     |
+| Version Control      | Git, GitHub                            |
